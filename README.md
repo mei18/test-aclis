@@ -1,1 +1,1 @@
-# test-aclis
+# test game. Create it with React.
