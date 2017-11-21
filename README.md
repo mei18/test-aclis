@@ -1,1 +1,1 @@
-# test game. Create it with React.
+# Test game. Create it with React.
